@@ -6,7 +6,8 @@ COMPONENTI
 processori.md        
 schede_madri.md    
     
-PERIFERICHE   
+PERIFERICHE      
+tastiere.md        
 
 
 
