@@ -8,6 +8,7 @@ schede_madri.md
     
 PERIFERICHE      
 tastiere.md        
+mouse.md    
 
 
 
