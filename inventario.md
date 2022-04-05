@@ -4,7 +4,9 @@
 
 COMPONENTI     
 processori.md        
-schede_madri.md
+schede_madri.md    
+    
+PERIFERICHE   
 
 
 
